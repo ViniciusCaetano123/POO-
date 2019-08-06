@@ -1,0 +1,7 @@
+D:\visual studio\POO\POO\bin\Debug\POO.exe.config
+D:\visual studio\POO\POO\bin\Debug\POO.exe
+D:\visual studio\POO\POO\bin\Debug\POO.pdb
+D:\visual studio\POO\POO\obj\Debug\POO.csprojAssemblyReference.cache
+D:\visual studio\POO\POO\obj\Debug\POO.csproj.CoreCompileInputs.cache
+D:\visual studio\POO\POO\obj\Debug\POO.exe
+D:\visual studio\POO\POO\obj\Debug\POO.pdb
